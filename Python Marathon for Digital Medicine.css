@@ -57,9 +57,9 @@ background-size: 20px 20px;
 
 
 /*מבוא*/
-/*// פה צריך לשנוות את הספרה 2 למספר הכפתורים הרצויים בכל סקשן בסוגריים - יש לשכפל את הקובץ לשם כך.*/
+/*// פה צריך לשנוות את הספרה 3 למספר הכפתורים הרצויים בכל סקשן בסוגריים - יש לשכפל את הקובץ לשם כך.*/
 /*כפתורים במבוא*/
-#section-0 .content ul:nth-of-type(1) li:nth-child(-n+2) {
+#section-0 .content ul:nth-of-type(1) li:nth-child(-n+3) {
     font-family: 'Rubik', sans-serif;
 
  font-size: 24px;
